@@ -48,31 +48,35 @@ Foi escolhido colocar uma conexão usb macho e femea entre as celulas de carga e
 
 ## Lista de Componentes 
 
-| Qtde| Item              | Descrição       |
+| Qtd| Item              | Descrição       |
 | --- | ---               | ---             |
 | 01  | [Caixa 18650 AAx1](https://pt.aliexpress.com/item/1005001621877085.html)     | Suporte de bateria     |
-| 06  | [ESP01](https://pt.aliexpress.com/item/1005001622047352.html)                |Microcontrolador com comunicador serial - receptor |
-| 04  | [ESP8266 - D1 MINI](https://pt.aliexpress.com/item/1005001621784437.html)    |Microcontrolador com comunicador serial - transmissor |
-| 05  | [APA2107LVBC/D](https://pt.aliexpress.com/item/1005001621693956.html)        |Carregador de bateria de lítio 18650 |
-| 01  | [Mini360 ](https://pt.aliexpress.com/item/1005001621737620.html)             |Step-down |
-| 01  | [P4](https://pt.aliexpress.com/item/1005001621748858.html)                   |Conector de alimentação dc |
-| 01  | [SD](https://pt.aliexpress.com/item/1005001621606994.html)                   |Leitor SD |
-| 01  | [CRCW04021K20JNTD](https://br.mouser.com/ProductDetail/80-C0805C105K4R7210)         | Resistor 1.2k 0402  |
-| 01  | [CRGCQ0402F10K](https://br.mouser.com/ProductDetail/279-CRGCQ0402F10K)              | Resistor 10k 0402 |
-| 05  | [CR0402-FX-1501GLF](https://br.mouser.com/ProductDetail/652-CR0402FX-1501GLF)       | Resistor 1.5k 0402 |
-| 01  | [CR1206-FX-1501ELF](https://br.mouser.com/ProductDetail/652-CR1206FX-1501ELF)       | Resistor 1.5k 1206 |
-| 01  | [ATTINY85-20SUR](https://br.mouser.com/ProductDetail/556-ATTINY85-20SU)             | Microcontrolador |
-| 01  | [TL3780AF100QG](https://br.mouser.com/ProductDetail/612-TL3780AF100QG)              | Interruptor tátil  |
-| 01  | [CRCW04021K20JNTD](https://br.mouser.com/ProductDetail/80-C0805C105K4R7210)         | Resistor 1.2k 0402  |
-| 01  | [CRGCQ0402F10K](https://br.mouser.com/ProductDetail/279-CRGCQ0402F10K)              | Resistor 10k 0402 |
-| 05  | [CR0402-FX-1501GLF](https://br.mouser.com/ProductDetail/652-CR0402FX-1501GLF)       | Resistor 1.5k 0402 |
-| 01  | [CR1206-FX-1501ELF](https://br.mouser.com/ProductDetail/652-CR1206FX-1501ELF)       | Resistor 1.5k 1206 |
+| 01  | [ESP01](https://pt.aliexpress.com/item/1005001622047352.html)                | Microcontrolador com comunicador serial - receptor |
+| 01  | [ESP8266 - D1 MINI](https://pt.aliexpress.com/item/1005001621784437.html)    | Microcontrolador com comunicador serial - transmissor |
+| 01  | [Step-up + carregador](https://pt.aliexpress.com/item/1005001621693956.html) | Carregador de bateria de lítio 18650 + Step-up |
+| 02  | [Mini360 ](https://pt.aliexpress.com/item/1005001621737620.html)             | Step-down |
+| 01  | [P4](https://pt.aliexpress.com/item/1005001621748858.html)                   | Conector de alimentação dc |
+| 01  | [SD](https://pt.aliexpress.com/item/1005001621606994.html)                   | Leitor SD |
+| 01  | [Conector USB Macho](https://br.mouser.com/ProductDetail/279-CRGCQ0402F10K)  | Conector USB Macho para fio |
+| 01  | [Chave Tecla](https://br.mouser.com/ProductDetail/652-CR0402FX-1501GLF)      | Chave Tecla  com Trava Para Placa 
+| 01  | [Chave Táctil](https://br.mouser.com/ProductDetail/652-CR1206FX-1501ELF)     | Chave Táctil H-Buster 3mm 2 Terminais |
+| 01  | [SS12F23](https://br.mouser.com/ProductDetail/556-ATTINY85-20SU)             | Chave HH|
+| 01  | [1N4007](https://br.mouser.com/ProductDetail/612-TL3780AF100QG)              | Diodo  |
+| 01  | [Conector KK Macho](https://br.mouser.com/ProductDetail/80-C0805C105K4R7210) | Conector KK Macho 2,54mm 2 vias |
+| 01  | [Conector KK Fêmea](https://br.mouser.com/ProductDetail/279-CRGCQ0402F10K)   | Conector KK Fêmea 2,5mm 2 Vias |
+| 04  | [Terminal KK](https://br.mouser.com/ProductDetail/652-CR0402FX-1501GLF)      | Terminal Para Conector KK  |
+| 01  | [Bateria 18650](https://br.mouser.com/ProductDetail/652-CR1206FX-1501ELF)    | Bateria Recarregável Li-Ion 3,6V|
 
 
 ### Links
 - [Relatorio](https://drive.google.com/file/d/1Hbn8Wrecm2mFYuo-eOkDm_AL81IvbxrG/view?usp=sharing)
 
   
+
+
+
+
+
 
 
 
