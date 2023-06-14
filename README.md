@@ -1,6 +1,5 @@
 # Banco Estático 
-Projeto eletronico desenvolvido para leitura de empuxo dos motores produzidos pela equipe de foguetemodelismo Cactus Rockets
-<p align="center"><img src="/Fotos/af6209759e237ef2a5ed_570x427_0_1_1_1.jpg" width="600px" /></p>
+Projeto eletronico desenvolvido para leitura de empuxo dos motores de Mini foguete 
 
 ### Funcionamento
 
@@ -11,7 +10,7 @@ Foi escolhido colocar uma conexão usb macho e femea entre as celulas de carga e
 ### Componetes e Circuitos
 
 
-- Microcontrolador ESP8266 no modulo esp-12
+- Microcontrolador ESP12(ESP8266) na placa do D1 mini
 - HX711 amplifica e converte os valores lidos da celulas de carga 
 - Celulas de cargas de 50kg
 - Devido o local de teste não ser de fácil utilização de fontes sera ultilizados bateria 18650 de 3,7V.
@@ -27,22 +26,8 @@ Foi escolhido colocar uma conexão usb macho e femea entre as celulas de carga e
 - Dois Botões tatil uma para reset outra para colocar no modo de programação 
 
 
-## Imagens com os componetes 
-
-<p align="center"><img src = "/Fotos/Mont.jpg" width = "600">
-<p align="center"><img src = "/Fotos/montin.jpg" width = "600">
-<p align="center"><img src = "/Fotos/pcbcom.jpg" width = "600">
-
-## Dimensões
-  
-<p align="center"><img src = "/Fotos/dimMont.jpg" width = "600">
-  
 ## Esquemático
 
-### Alimentação 
-![Schematics](/Esquematicos/esqalim.png "Schematics")
-
-### Geral
 ![Schematics](/Esquematicos/espcom.jpg "Schematics")
 
 
@@ -68,8 +53,7 @@ Foi escolhido colocar uma conexão usb macho e femea entre as celulas de carga e
 | 01  | [Bateria 18650](https://br.mouser.com/ProductDetail/652-CR1206FX-1501ELF)    | Bateria Recarregável Li-Ion 3,6V|
 
 
-### Links
-- [Relatorio](https://drive.google.com/file/d/1Hbn8Wrecm2mFYuo-eOkDm_AL81IvbxrG/view?usp=sharing)
+
 
   
 
